@@ -1,0 +1,12 @@
+/target
+/exceptions
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+.DS_Store
+.vscode/
+.classpath
+.project
